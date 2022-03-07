@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 You can check out my project at [https://michel-haddad.vercel.app/](https://michel-haddad.vercel.app/)
+- 👨‍💻 You can check out my projects at [https://michel-haddad.vercel.app/](https://michel-haddad.vercel.app/)
 
-- 💬 Ask me about **Vue.js,**
+- 💬 Ask me about **Vue.js**
 
 - 📫 How to reach me **michhadd1@gmail.com**
 
