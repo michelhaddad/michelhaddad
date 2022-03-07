@@ -9,9 +9,9 @@
 
 - 👨‍💻 You can check out my projects at [https://michel-haddad.vercel.app/](https://michel-haddad.vercel.app/)
 
-- 💬 Ask me about **Vue.js**
+- 💬 Ask me about **Vue.js, Laravel, Express.js, Java**
 
-- 📫 How to reach me **michhadd1@gmail.com**
+- 📫 Reach me at **michhadd1@gmail.com**
 
 - 📄 My Resume [https://e-commerce-iqoseye.s3.eu-central-1.amazonaws.com/misc/Michel+Haddad+CV+2021+-+October.pdf](https://e-commerce-iqoseye.s3.eu-central-1.amazonaws.com/misc/Michel+Haddad+CV+2021+-+October.pdf)
 
