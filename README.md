@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michelhaddad&show_icons=true&locale=en&layout=compact" alt="michelhaddad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=michelhaddad&show_icons=true&locale=en" alt="michelhaddad" /></p>
+
+<p><a href="https://app.daily.dev/10_michhaddad"><img src="https://api.daily.dev/devcards/0ad1439a283942e18c3f56f2404e30dd.png?r=xd4" width="250" alt="Michel Haddad's Dev Card"/></a></p>
