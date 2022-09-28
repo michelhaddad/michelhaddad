@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **michhadd1@gmail.com**
 
-- 📄 My Resume [https://e-commerce-iqoseye.s3.eu-central-1.amazonaws.com/misc/Michel+Haddad+CV+2021+-+October.pdf](https://e-commerce-iqoseye.s3.eu-central-1.amazonaws.com/misc/Michel+Haddad+CV+2021+-+October.pdf)
+- 📄 [My Resume](https://e-commerce-iqoseye.s3.eu-central-1.amazonaws.com/misc/Michel+Haddad+CV+2022+-+September.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
